@@ -35,17 +35,17 @@ h1.title {
 .left-contents {
   flex-direction: column;
   justify-content: space-around;
-  border: 1px solid white;
+  /* border: 1px solid white; */
 }
 
 .players {
   font-size: 2rem;
-  border: 1px solid red;
+  /* border: 1px solid white; */
   height: 100%;
 }
 
 .player {
-  border: 1px solid yellow;
+  border: 1px solid white;
   width: 100%;
   flex-direction: column;
   justify-content: space-between;
@@ -58,7 +58,7 @@ h1.title {
 }
 
 .points {
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   justify-content: center;
   margin: auto; /*-----------------------------------------*/
   line-height: 1;
@@ -68,12 +68,12 @@ h1.title {
 .number {
   line-height: 2;
   font-size: 3rem;
-  border: 1px solid pink;
+  /* border: 1px solid pink; */
 }
 
 .pt {
   line-height: 3;
-  border: 1px solid green;
+  /* border: 1px solid green; */
   margin-left: 8px;
 
 }
@@ -93,12 +93,12 @@ td {
 }
 
 .all-course {
-  border: 1px solid pink;
+  /* border: 1px solid pink; */
   margin: 8px;
 }
 
 .grand-prixes {
-  border: 1px solid green;
+  /* border: 1px solid green; */
 }
 
 .grand-prix {
@@ -111,7 +111,7 @@ td {
 
 .courses {
   justify-content: space-around;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 .course.active {
